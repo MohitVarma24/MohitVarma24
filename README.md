@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohitVarma24
 - 👀 I’m interested in exploring Computer Science.
-- 🌱 I’m currently learning C .
-- 💞️ I’m looking to collaborate on learning Java
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on learning dsa in Java
 - 📫 How to reach me 
 - ⚡ Fun fact: I am MO - HIT
 
